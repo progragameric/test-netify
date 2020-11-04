@@ -1,12 +1,12 @@
 import logo from './logo.svg';
-import logg from './logg.png'
+// import logg from './logg.png'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logg} className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo" alt="logo" />
         <h1>
           Progragameric
         </h1>
