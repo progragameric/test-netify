@@ -7,9 +7,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>
-          Progragameric
-        </h1>
         <p>
           I wrote code to code
         </p>
